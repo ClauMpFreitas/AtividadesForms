@@ -1,0 +1,16 @@
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\bin\Debug\AtividadesForms.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\bin\Debug\AtividadesForms.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.csprojResolveAssemblyReference.cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.FrmHotel.resources
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.csproj.GenerateResource.Cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.FrmSeguros.resources
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\bin\Debug\AtividadesForms.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\bin\Debug\AtividadesForms.pdb
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.FrmSeguros.resources
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.FrmHotel.resources
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.csproj.GenerateResource.Cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\AtividadesForms\AtividadesForms\obj\Debug\AtividadesForms.pdb
